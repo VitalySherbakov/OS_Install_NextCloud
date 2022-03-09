@@ -1,1 +1,1 @@
-echo ------------------Debian Install NextCloud------------------
+echo Debian Install NextCloud
